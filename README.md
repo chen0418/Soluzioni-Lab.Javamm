@@ -1,2 +1,2 @@
 # Soluzioni-Lab.Javamm
-Soluzioni dei Lab su Java--.
+Soluzioni delle esercitazioni su Java--.
